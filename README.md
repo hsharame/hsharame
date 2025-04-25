@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello, world! Moi c'est Hanna!   :wave:
 
-<!--
-**hsharame/hsharame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis une jeune développeuse en formation à l'école **42**.  
+Je code en **C** et **C++**, avec un intérêt marqué pour l’**administration système** et les technologies **réseau** 🖥️🔧  
+Avant ça, j’ai étudié les lettres à la **Sorbonne** et j’ai un **Master** en poche 🎓
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+
+- Langages : `C`, `C++`
+- Système & réseau : Linux, bash, config réseau
+- Soft skills : adaptation, curiosité, autonomie, rigueur
+
+
+## 🔗 Me retrouver
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanna-sharameta-a29021250/)
+
+
+## 🎯 Objectif
+
+
+![200](https://github.com/user-attachments/assets/2921d1a4-7ead-4eb1-84ce-1b9a4869529b)
+
