@@ -15,7 +15,7 @@ Ancienne vie: faculté des lettres à la Sorbonne, professeur de la langue russe
 ## 🔗 Me retrouver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanna-sharameta-a29021250/)
-[![CodinGame](https://img.shields.io/badge/CodinGame-Visit-yellow?style=flat&logoColor=white)]([https://www.codingame.com/profile/ton-pseudo](https://www.codingame.com/profile/2890f51e386ae9a31b15d460e28707ea3264056))
+[![CodinGame](https://img.shields.io/badge/CodinGame-Visit-yellow?style=flat&logoColor=white)](https://www.codingame.com/profile/2890f51e386ae9a31b15d460e28707ea3264056)
 
 
 ![200](https://github.com/user-attachments/assets/2921d1a4-7ead-4eb1-84ce-1b9a4869529b)
