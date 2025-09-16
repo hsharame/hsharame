@@ -7,10 +7,11 @@ Ancienne vie: faculté des lettres à la Sorbonne, professeur de la langue russe
 
 ## 🛠️ Compétences
 
-- Langages : `C`, `C++`
+- Langages : `C`, `C++`, `JavaScript`, `TypeScript`
 - Système & réseau :  Unix/Linux, Windows, Bash, configuration réseau, scripts shell
 - Outils & Debugging :  GCC, lldb, gdb, Valgrind, Git, GitHub, Gitflow
 - Conteneurs & virtualisation : Docker, Docker Compose, Dockerfile, volumes, réseaux Docker
+- DevOps: Elasticsearch, Logstash, Kibana; Prometheus, Grafana
 
 ## 🔗 Me retrouver
 
